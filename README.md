@@ -2,6 +2,16 @@ This Repo is created to store certificates that I achieved in coding tests and i
 
 Certificate URLs are here:
 
+----------------------------------------------------------------------------------------
+
+Responsive Web Design Developer Certification - By FreeCodeCamp
+Verify this certification at https://freecodecamp.org/certification/manasabheema/responsive-web-design
+
+JavaScript Algorithms and Data Structures Developer Certification - By FreeCodeCamp
+Verify this certification at https://freecodecamp.org/certification/manasabheema/javascript-algorithms-and-data-structures
+
+----------------------------------------------------------------------------------------
+
 JavaScript(Basic) - HackerRank Assessment Certification
 https://www.hackerrank.com/certificates/ece742e083e9
 
