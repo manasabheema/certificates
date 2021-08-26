@@ -5,10 +5,10 @@ Certificate URLs are here:
 ----------------------------------------------------------------------------------------
 
 Responsive Web Design Developer Certification - By FreeCodeCamp
-Verify this certification at https://freecodecamp.org/certification/manasabheema/responsive-web-design
+ - Verify this certification at https://freecodecamp.org/certification/manasabheema/responsive-web-design
 
 JavaScript Algorithms and Data Structures Developer Certification - By FreeCodeCamp
-Verify this certification at https://freecodecamp.org/certification/manasabheema/javascript-algorithms-and-data-structures
+ - Verify this certification at https://freecodecamp.org/certification/manasabheema/javascript-algorithms-and-data-structures
 
 ----------------------------------------------------------------------------------------
 
